@@ -77,6 +77,10 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 
 #### Hard Skills
 
+- Desenvolvimento Web com Django: Sei fazer com autonomia
+- Scrum Master: Sei fazer com ajuda
+- Modelagem de Banco de Dados: Sei fazer com autonomia
+
 #### Soft Skills
 
 ### Em 2020-2 | [Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor) | Parceiro: [SPC](https://www.spcbrasil.org.br/)
@@ -92,6 +96,10 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 
 #### Hard Skills
 
+- Templates HTML com Bootstrap: Sei fazer com autonomia
+- Scrum Master | Product owner: Sei fazer com ajuda
+- Docker: Sei fazer com autonomia
+
 #### Soft Skills
 
 ### Em 2021-1 | [Nemo](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-1_NemoAPI) | Parceiro: [GSM](https://www.linkedin.com/company/gsw-software/?originalSubdomain=br)
@@ -105,6 +113,11 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 #### Contribuições Pessoais
 
 #### Hard Skills
+
+- Scrum Master | Product owner: Sei fazer com ajuda
+- Docker: Sei fazer com autonomia
+- Postgres: Sei fazer com autonomia
+- Java com Spring: Tenho noções básicas
 
 #### Soft Skills
 
@@ -122,6 +135,11 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 
 #### Hard Skills
 
+- Big Query: Sei fazer com autonomia
+- Mongo DB: Sei fazer com autonomia
+- Data Flow: Tenho noções básicas
+- Data Studio: Sei fazer com ajuda
+
 #### Soft Skills
 
 ### Em 2022-1 | [PsiPerfil](#)
@@ -131,6 +149,9 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 #### Contribuições Pessoais
 
 #### Hard Skills
+
+- NextJS: Sei fazer com ajuda
+- Tailwind: Sei fazer com ajuda
 
 #### Soft Skills
 
