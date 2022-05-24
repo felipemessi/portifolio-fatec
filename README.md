@@ -122,6 +122,8 @@ No projeto do Semaforo do consumidor, eu tive um papel mais de "business", onde 
 
 ### Em 2021-1 | [Nemo](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-1_NemoAPI) | Parceiro: [GSM](https://www.linkedin.com/company/gsw-software/?originalSubdomain=br)
 
+[Confira mais sobre o projeto](https://gitlab.com/felipemessibraga/pi-1sem-2021/-/wikis/9.1-Entrega-Sprint-4-(Final))
+
 #### Tecnologias Utilizadas
 
 - <strong>Java</strong>: Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling. No projeto ele foi a linguagem base para lidar com o servir a aplicação e com as consultas ao banco de dados. No nosso projeto ele foi responsável por lidar com a lógica de negócio e servir como linguagem do framework Spring.
@@ -146,8 +148,6 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 - Gerenciamento do tempo
 
 ### Em 2021-2 | [NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys) | Parceiro: [NESS](https://www.ness.com.br/)
-
-[Confira mais sobre o projeto]("https://gitlab.com/felipemessibraga/pi-1sem-2021/-/wikis/9.1-Entrega-Sprint-4-(Final)")
 
 #### Tecnologias Utilizadas
 
