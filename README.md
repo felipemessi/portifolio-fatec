@@ -12,6 +12,15 @@ Atualmente trabalho na BRQ, atuando na área de automações, utilizando o Pytho
 
 Tenho uma paixão por desenvolvimento web, onde me arrisco em projetos pequenos desde 2018 e que desejo continuar adquirir novos conhecimentos, sendo junto com Cloud Archtect meus principais focos de estudos.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipegbraga/">
+    <img width="100px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/felipemessi">
+    <img width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 ## Meus Projetos
 
 <div align="center">
