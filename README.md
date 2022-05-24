@@ -70,7 +70,7 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 
 #### Soft Skills
 
-### Em 2020-2 | [Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor)
+### Em 2020-2 | [Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor) | Parceiro: [SPC](https://www.spcbrasil.org.br/)
 
 #### Tecnologias Utilizadas
 
@@ -85,7 +85,7 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 
 #### Soft Skills
 
-### Em 2021-1 | [Nemo](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-1_NemoAPI)
+### Em 2021-1 | [Nemo](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-1_NemoAPI) | Parceiro: [GSM](https://www.linkedin.com/company/gsw-software/?originalSubdomain=br)
 
 #### Tecnologias Utilizadas
 
@@ -99,7 +99,7 @@ Outras soft skills que foram desenvolvidas foram: trabalho em equipe e senso ana
 
 #### Soft Skills
 
-### Em 2021-2 | [NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys)
+### Em 2021-2 | [NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys) | Parceiro: [NESS](https://www.ness.com.br/)
 
 #### Tecnologias Utilizadas
 
