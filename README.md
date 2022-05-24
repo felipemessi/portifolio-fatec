@@ -63,7 +63,11 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 
 ### Em 2020-1 | [Gantt Planner](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-1_GanttPlanner) | Parceiro: [NECTO](https://www.linkedin.com/company/nectosystems/?originalSubdomain=br)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sePaF3FJYkg/0.jpg)](https://www.youtube.com/watch?v=sePaF3FJYkg)
+<div align="center">
+<a href="https://pi-gantt-planner.herokuapp.com/">
+  <img src="https://github.com/felipemessi/portifolio-fatec/blob/main/2020-1_GanttPlanner/pi/gantt/static/images/preview-gantt-planner.png">
+  </a>
+</div>
 
 #### Tecnologias Utilizadas
 
@@ -88,6 +92,10 @@ Para o desenvolvimento do Gantt Planner, minhas principais contribuições foram
 - Comunicação eficiente
 
 ### Em 2020-2 | [Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor) | Parceiro: [SPC](https://www.spcbrasil.org.br/)
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=sePaF3FJYkg"><img src="https://img.youtube.com/vi/sePaF3FJYkg/0.jpg"></a>
+</div>
 
 #### Tecnologias Utilizadas
 
@@ -150,6 +158,8 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 #### Contribuições Pessoais
 
 Sem dúvida foi o projeto mais desafiador! Não tinhamos quase nenhum conhecimento tecnico sobre o problema e precisamos correr atrás de todas as informações durante o desenvolvimento. Fui responsável por entender as principais tecnologias e ajudar no desenvolvimento em todo o ciclo, desde o desenvolvimento da massa de dados de teste, modelagem do Data Warehouse e na integração com o Google Data Flow com o Data Warehouse (Google Data Studio). Também tive participação na integração dos novos integrantes da equipe, que chegaram a partir da segunda sprint, complementando o time. Somado a isso, exerci a função de Scrum Master durante o projeto.
+
+![Fluxo da Aplicação](https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/Fluxo%20da%20Aplica%C3%A7%C3%A3o.png)
 
 #### Hard Skills
 
