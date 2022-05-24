@@ -64,7 +64,7 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 ### Em 2020-1 | [Gantt Planner](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-1_GanttPlanner) | Parceiro: [NECTO](https://www.linkedin.com/company/nectosystems/?originalSubdomain=br)
 
 <div align="center">
-<a href="https://pi-gantt-planner.herokuapp.com/">
+<a href="https://www.youtube.com/watch?v=QbBc3mReSTo">
   <img src="https://github.com/felipemessi/portifolio-fatec/blob/main/2020-1_GanttPlanner/pi/gantt/static/images/preview-gantt-planner.png">
   </a>
 </div>
@@ -94,7 +94,7 @@ Para o desenvolvimento do Gantt Planner, minhas principais contribuições foram
 ### Em 2020-2 | [Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor) | Parceiro: [SPC](https://www.spcbrasil.org.br/)
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=sePaF3FJYkg"><img src="https://img.youtube.com/vi/sePaF3FJYkg/0.jpg"></a>
+<a href="https://www.youtube.com/watch?v=gPBcxXvGQVM"><img src="https://img.youtube.com/vi/gPBcxXvGQVM/0.jpg"></a>
 </div>
 
 #### Tecnologias Utilizadas
@@ -146,6 +146,8 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 - Gerenciamento do tempo
 
 ### Em 2021-2 | [NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys) | Parceiro: [NESS](https://www.ness.com.br/)
+
+[Confira mais sobre o projeto]("https://gitlab.com/felipemessibraga/pi-1sem-2021/-/wikis/9.1-Entrega-Sprint-4-(Final)")
 
 #### Tecnologias Utilizadas
 
