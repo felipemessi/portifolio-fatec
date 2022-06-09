@@ -38,13 +38,16 @@ Tenho uma paixão por desenvolvimento web, onde me arrisco em projetos pequenos 
 
 Desenvolver uma solução para um problema conhecido utilizando webbot foi o requisito para o projeto de primeiro semestre, onde o problema específicamente ficava à critério dos participantes. A nossa equipe focou em uma solução para auxiliar as pequenas empresas de São José dos Campos a fazer uma análise de mercado, investigando a quantidade e as características das empresas do mesmo setor que haviam na região de São José dos Campos. A partir dos dados coletados no portal da Receita Federal, nosso projeto fazia uma triangulação da localização a partir do CEP, possibilitando assim uma análise geográfica que seria finalmente disponibilizada atravpés do webbot.
 
+<div align="center">
+<img src="https://github.com/felipemessi/portifolio-fatec/blob/main/2019-2_Webbot/Imagens/IMG-20190827-WA0037.jpg">
+</div>
+  
 #### Tecnologias Utilizadas
 Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
 
-- <strong>Python</strong>: Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. No projeto ele foi a linguagem base para lidar com a raspagem dos dados, com o framework Django e com as consultas ao banco de dados.
-- <strong>Django</strong>: Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view. Servindo como plataforma do WebBot.
-- <strong>Selenium</strong>: É um framework portátil criado para testar aplicativos web, porém pode ser adaptado para *web scrapping*, função ao qual teve aplicação na aquisição dos dados da Receita Federal.
-- <strong>MongoDB</strong>: MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. Por sua facilidade em lidar com grande massa de dados e velocidade em busca de dados, ele foi escolhido como tecnologia para o banco de dados.
+- <strong>Django</strong>: Para disponibilizar nosso webbot online, decidimos por utilizar o django parar servir nosso sistema. A opção por ele foi a confiabilidade e segurança que ele fornece aliado à produtividade que temos com o python;
+- <strong>Selenium</strong>: É um framework portátil criado para testar aplicativos web, porém pode ser adaptado para *web scrapping*, função ao qual teve aplicação na aquisição dos dados da Receita Federal;
+- <strong>MongoDB</strong>: O Mongo DB foi escolhido para lidar com os dados que nós extraímos do site da receita. O Mongo é um banco com boa performance para análise de dados, aleḿ de contar com esquema flexível, o que nos era favorável no nosso projeto, devido as variações no formato dos dados de cada empresa.
 
 #### Contribuições Pessoais
 
@@ -52,14 +55,14 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 
 #### Hard Skills
 
-- Desenvolvimento Web com Django: Sei fazer com autonomia
-- Scrum Master: Sei fazer com ajuda
-- Webscraping com Selenium: Tenho noções básicas
+- Desenvolvimento Web com Django;
+- Scrum Master;
+- Webscraping com Selenium.
 
 #### Soft Skills
 
-- Resiliência
-- Pensamento criativo
+- Resiliência: Escolhemos um desafio muito grande, uma vez que o volume de dados era imenso ( mais de 100gb de dados! ) e a documentação disponibilizada no site da Receita Federal não era muito clara. Foi necessário bastante resiliência para encarar o problema e aprender a resolve-lo;
+- Pensamento criativo: O fato de nunca ter lidado com um problema parecido me fez ter que experimentar várias possibilidades e pra isso foi necessário muita criatividade para encontrar cenários de teste para solucionar o problema.
 
 ### Em 2020-1 | [Gantt Planner](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-1_GanttPlanner) | Parceiro: [NECTO](https://www.linkedin.com/company/nectosystems/?originalSubdomain=br)
 
@@ -78,12 +81,13 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 #### Contribuições Pessoais
 
 Para o desenvolvimento do Gantt Planner, minhas principais contribuições foram em colaborar no desenvolvimento do front-end e também na parte de organização do projeto, bem como descrição dos requisitos, apresentação para o cliente/professores, além do desenvolvimento do wireframe.
+Como Scrum Master, nesta sprint eu me desenvolvi muito mais em relação à compreensão dos ritos, a importância de cada uma das cerimônias (reuniões), entendendo as características do time e focando em ajudar cada membro do time de acordo com suas características.
 
 #### Hard Skills
 
-- Desenvolvimento Web com Django: Sei fazer com autonomia
-- Scrum Master: Sei fazer com ajuda
-- Modelagem de Banco de Dados: Sei fazer com autonomia
+- Django;
+- Scrum Master;
+- Modelagem de Banco de Dados.
 
 #### Soft Skills
 
