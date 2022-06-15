@@ -217,6 +217,12 @@ Foi particularmente desafiador controlar as emoções neste projeto, enfrentei a
 
 ### Em 2022-1 | [PsiPerfil](#)
 
+<div align="center">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
 #### Tecnologias Utilizadas
 
 #### Contribuições Pessoais
