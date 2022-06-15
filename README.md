@@ -1,8 +1,8 @@
 # Felipe Gustavo Braga
 
-## Sobre mim
+## Sobre mim :blush:
 
-Me chamo Felipe Gustavo Braga, desenvolvedor RPA, cursando o 6º semestre de Banco de Dados, na Fatec Profº Jessen Vidal, em São José dos Campos.
+Me chamo Felipe Gustavo Braga :yum:, desenvolvedor RPA, cursando o 6º semestre de Banco de Dados, na Fatec Profº Jessen Vidal, em São José dos Campos.
 
 Em 2019, realizei um estágio na PRTi Digital, também em São José dos Campos, onde pude trabalhar com o software ABBYY Flexi Capture para OCR e iniciei meus estudos em RPA, trabalhando com o UiPath. Ainda em 2019 fui efetivado, passando a desenvolver API's em Javascript e aprofundando nos conhecimentos de RPA, agora também com o Automation Anywhere.
 
@@ -34,7 +34,9 @@ Tenho uma paixão por desenvolvimento web, onde me arrisco em projetos pequenos 
       </p>
 </div>
 
-### Em 2019-2 | [WebBot](https://github.com/felipemessi/portifolio-fatec/tree/main/2019-2_Webbot)
+<span name="webbot"/>
+
+### Em 2019-2 | [:robot: WebBot](https://github.com/felipemessi/portifolio-fatec/tree/main/2019-2_Webbot)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -71,7 +73,9 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 - Resiliência: Escolhemos um desafio muito grande, uma vez que o volume de dados era imenso ( mais de 100gb de dados! ) e a documentação disponibilizada no site da Receita Federal não era muito clara. Foi necessário bastante resiliência para encarar o problema e aprender a resolve-lo;
 - Pensamento criativo: O fato de nunca ter lidado com um problema parecido me fez ter que experimentar várias possibilidades e pra isso foi necessário muita criatividade para encontrar cenários de teste para solucionar o problema.
 
-### Em 2020-1 | [Gantt Planner](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-1_GanttPlanner) | Parceiro: [NECTO](https://www.linkedin.com/company/nectosystems/?originalSubdomain=br)
+<span name="gantt"/>
+
+### Em 2020-1 | [:bookmark_tabs: Gantt Planner](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-1_GanttPlanner) | Parceiro: [NECTO](https://www.linkedin.com/company/nectosystems/?originalSubdomain=br)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -79,6 +83,8 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
+
+Para equipes que trabalham em múltiplos projetos e tarefas, que estão insatisfeitas com a dificuldade de fazer um planejamento com as ferramentas de planejamento disponíveis, o Gantt Planner é uma ferramenta visual de planejamento que auxilia o desenvolvimento do seu planejamento, minimizando os riscos de má distribuição de mão de obra, perder prazos e compreensão da evolução das tarefas. Ao contrário de outras ferramentas de planejamento conhecidas, nosso projeto oferece gráficos e relatórios completos e agradáveis com a possibilidade de compartilhamento do gráfico do planejamento como imagem para o time.
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=QbBc3mReSTo">
@@ -105,11 +111,12 @@ Como Scrum Master, nesta sprint eu me desenvolvi muito mais em relação à comp
 
 #### Soft Skills
 
-- Trabalho em equipe
-- Controle das emoções
-- Comunicação eficiente
+- Autoconfiança: Mesmo que o trabalho em equipe seja fundamental, é necessário ter confiança no seu trabalho. Este projeto me exigiu o desenvolvimento da minha confiança no que eu era capaz, evoluindo como Scrum Master e resolvendo problemas no front-end.
+- Controle das emoções: Enfrentamos alguns problemas relacionados à pessoas no time, foi necessário controlar a emoção para resolver melhor os conflitos e conseguir entregar valor ao final de cada sprint.
 
-### Em 2020-2 | [Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor) | Parceiro: [SPC](https://www.spcbrasil.org.br/)
+<span name="semaforo"/>
+
+### Em 2020-2 | [🔴🟡🟢 Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor) | Parceiro: [SPC](https://www.spcbrasil.org.br/)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -118,6 +125,8 @@ Como Scrum Master, nesta sprint eu me desenvolvi muito mais em relação à comp
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
+A entrega de valor do Semáforo do consumidor está em estimular toda a cadeia de consumo de forma consciente, estimulado aqueles que estão com uma situação financeira ruim a conseguir sua independência financeira, para aqueles que estão confortáveis financeiramente incentivos ao consumo com qualidade e com as melhores condições, e para empresas parceiras o direcionamento de consumidores qualificados, aumentando assim o índice de vendas e comissões.
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=gPBcxXvGQVM"><img src="https://img.youtube.com/vi/gPBcxXvGQVM/0.jpg"></a>
@@ -136,23 +145,26 @@ No projeto do Semaforo do consumidor, eu tive um papel mais de "business", onde 
 
 #### Hard Skills
 
-- Templates HTML com Bootstrap: Sei fazer com autonomia
-- Scrum Master | Product owner: Sei fazer com ajuda
-- Docker: Sei fazer com autonomia
+- Templates HTML com Bootstrap
+- Scrum Master | Product owner
+- Docker
 
 #### Soft Skills
 
-- Pensamento criativo
-- Capacidade de planejamento
-- Gerenciamento do tempo
+- Atitude positiva: Como scrum master o desafio foi manter o time motivado, já estavamos chegando no meio do curso e estávamos cansados. Algumas pessoas já estavam desanimando, manter a atitude positiva foi fundamental para resgatar o time.
+- Capacidade de planejamento: Este projeto a capacidade de planejamento foi colocada a prova, tivemos alguns ofensores que aumentaram o risco do nosso projeto, mas como estava previsto dentro do planejamento que podiamos ter alguma dificuldade entregamos com sucesso o produto!
 
-### Em 2021-1 | [Nemo](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-1_NemoAPI) | Parceiro: [GSM](https://www.linkedin.com/company/gsw-software/?originalSubdomain=br)
+<span name="nemo"/>
+
+### Em 2021-1 | [🐠 Nemo](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-1_NemoAPI) | Parceiro: [Jetsoft](https://www.jetsoft.com.br/)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
+
+O projeto Nemo visa ser uma solução simples, versátil, escalável e open source para pessoas e empresas que precisam de um sistema escalável, simples e versátil para fazer a gestão dos currículos de candidatos relacionando eles às vagas disponíveis pela empresa.
 
 [Confira mais sobre o projeto](https://gitlab.com/felipemessibraga/pi-1sem-2021/-/wikis/9.1-Entrega-Sprint-4-(Final))
 
@@ -168,18 +180,19 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 
 #### Hard Skills
 
-- Scrum Master | Product owner: Sei fazer com ajuda
-- Docker: Sei fazer com autonomia
-- Postgres: Sei fazer com autonomia
-- Java com Spring: Tenho noções básicas
+- Scrum Master | Product owner
+- Docker
+- Postgres
+- Java com Spring
 
 #### Soft Skills
 
-- Atenção para ouvir
-- Colaboração
-- Gerenciamento do tempo
+- Atenção para ouvir: Ouvir foi a chave nesse processo, como tinhamos um time mais experiênte para esse projeto, ouvir e organizar as ideias colaborou para que eu pudesse ter um desempenho melhor como Scrum Master, podendo ajudar o time mais ativamente.
+- Lidar com pressão: O cliente deu um feedback negativo na nossa primeira entrega relativo à nossa apresentação, isso aumentou a pressão para corrigir todos os problemas para a próxima entrega, já que tinhamos perdido uma sprint já. Ajudar o time a colocar os esforços nos lugares certos e trabalhar em equipe foram as principais ações para resolver este problema da pressao.
 
-### Em 2021-2 | [NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys) | Parceiro: [NESS](https://www.ness.com.br/),
+<span name="nemosys"/>
+
+### Em 2021-2 | [🐟 NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys) | Parceiro: [NESS](https://www.ness.com.br/),
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -187,6 +200,9 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
+Desenvolver uma solução de dados voltada ao ensino à distância para a gestão e oferta de conhecimento, dando suporte às mais diversas arquiteturas de aprendizagem, alinhado com os objetivos estratégicos a serem alcançados por cada organização que atendemos como clientes. Fazer a gestão de logs para alimentar um Data Warehouse afim de possibilitar a melhor gestão estratégica do negócio.
+
+![Fluxo da Aplicação](https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/Fluxo%20da%20Aplica%C3%A7%C3%A3o.png)
 
 #### Tecnologias Utilizadas
 
@@ -199,23 +215,21 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 
 Sem dúvida foi o projeto mais desafiador! Não tinhamos quase nenhum conhecimento tecnico sobre o problema e precisamos correr atrás de todas as informações durante o desenvolvimento. Fui responsável por entender as principais tecnologias e ajudar no desenvolvimento em todo o ciclo, desde o desenvolvimento da massa de dados de teste, modelagem do Data Warehouse e na integração com o Google Data Flow com o Data Warehouse (Google Data Studio). Também tive participação na integração dos novos integrantes da equipe, que chegaram a partir da segunda sprint, complementando o time. Somado a isso, exerci a função de Scrum Master durante o projeto.
 
-![Fluxo da Aplicação](https://raw.githubusercontent.com/api-fatec-bd/api/feature/sprint_03_atualiza%C3%A7%C3%A3o/.github/Fluxo%20da%20Aplica%C3%A7%C3%A3o.png)
-
 #### Hard Skills
 
-- Big Query: Sei fazer com autonomia
-- Mongo DB: Sei fazer com autonomia
-- Data Flow: Tenho noções básicas
-- Data Studio: Sei fazer com ajuda
+- Big Query
+- Mongo DB
+- Data Flow
+- Data Studio
 
 #### Soft Skills
 
-- Habilidade para ser multitasking
-- Controle das emoções
+- Flexibilidade e adaptabilidade: Como o assunto de BI e Datawarehouse era algo totalmente novo para nós, tivemos que mudar e adaptar a nossa solução algumas vezes durante o processo, tive que me adaptar com o desenvolvimento cloud para viabilizar a entrega. Recorri à ajuda dos professores e cursos extras online para conseguir entregar valor ao cliente.
+- Suportar críticas: Tivemos atrito em relação à algumas decisões e entregas dentro do time. Saber lidar com as críticas me fez enxergar novas possibilidades e aprender a lidar melhor com os conflitos.
 
-Foi particularmente desafiador controlar as emoções neste projeto, enfrentei alguns conflitos com a equipe, o que me fez aprender muito sobre como lidar com a parte humana do desenvolvimento, cometi vários erros, mas com certeza sai muito mais experiênte quanto ao assunto "resolução de conflitos".
+<span name="psiperfil"/>
 
-### Em 2022-1 | [PsiPerfil](#)
+### Em 2022-1 | [PsiPerfil] 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -223,26 +237,31 @@ Foi particularmente desafiador controlar as emoções neste projeto, enfrentei a
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
+O Psiperfil é um projeto que faz o gerenciamento de preenchimento de formulários psicológicos. O desafio principal foi adapta-lo às normas da LGPD, implementando um sistema de "Opt-in and Opt-out", onde o usuário pode fazer o gerenciamento dos dados que ele deseja permitir que sejam guardados pela aplicação.
+
 #### Tecnologias Utilizadas
+
+- Django Rest Framework: Este framework ofereceu suporte completo de ORM, documentação e gerenciamento de rotas para a aplicação.
+- Postgres: O Postgres foi o banco utilizado para armazenar os dados da aplicação
+- Sqlite3: O Sqlite3 serviu como banco de desenvolvimento
 
 #### Contribuições Pessoais
 
+Este projeto foi inteiramente desenvolvido por mim.
+
 #### Hard Skills
 
-- NextJS: Sei fazer com ajuda
-- Tailwind: Sei fazer com ajuda
+- Desenvolvimento com Django Rest Framework
+- Documentação de API com Python
+- Utilização de Guias de Estilo.
 
 #### Soft Skills
 
+- Senso investigativo: Investigar as possibilidades e possíveis soluções para atender a LGPD.
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+Os principais conhecimentos adquiridos nesse projeto foram a serialização de dados, fazendo todas as validações e normalização dos dados alem de adaptar uma aplicação às normas da LGPD.
 
 ## Contatos
-* [GITHUB](https://github.com/felipemessi/)
+* [Github](https://github.com/felipemessi/)
 * [LinkedIn](https://www.linkedin.com/in/felipegbraga/)
-
-
-
-
-
