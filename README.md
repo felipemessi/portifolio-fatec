@@ -36,6 +36,13 @@ Tenho uma paixão por desenvolvimento web, onde me arrisco em projetos pequenos 
 
 ### Em 2019-2 | [WebBot](https://github.com/felipemessi/portifolio-fatec/tree/main/2019-2_Webbot)
 
+<div align="center">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
 Desenvolver uma solução para um problema conhecido utilizando webbot foi o requisito para o projeto de primeiro semestre, onde o problema específicamente ficava à critério dos participantes. A nossa equipe focou em uma solução para auxiliar as pequenas empresas de São José dos Campos a fazer uma análise de mercado, investigando a quantidade e as características das empresas do mesmo setor que haviam na região de São José dos Campos. A partir dos dados coletados no portal da Receita Federal, nosso projeto fazia uma triangulação da localização a partir do CEP, possibilitando assim uma análise geográfica que seria finalmente disponibilizada atravpés do webbot.
 
 <div align="center">
@@ -65,6 +72,13 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 - Pensamento criativo: O fato de nunca ter lidado com um problema parecido me fez ter que experimentar várias possibilidades e pra isso foi necessário muita criatividade para encontrar cenários de teste para solucionar o problema.
 
 ### Em 2020-1 | [Gantt Planner](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-1_GanttPlanner) | Parceiro: [NECTO](https://www.linkedin.com/company/nectosystems/?originalSubdomain=br)
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=QbBc3mReSTo">
@@ -98,6 +112,14 @@ Como Scrum Master, nesta sprint eu me desenvolvi muito mais em relação à comp
 ### Em 2020-2 | [Semaforo do Consumidor](https://github.com/felipemessi/portifolio-fatec/tree/main/2020-2_SemaforoConsumidor) | Parceiro: [SPC](https://www.spcbrasil.org.br/)
 
 <div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+<div align="center">
 <a href="https://www.youtube.com/watch?v=gPBcxXvGQVM"><img src="https://img.youtube.com/vi/gPBcxXvGQVM/0.jpg"></a>
 </div>
 
@@ -126,6 +148,12 @@ No projeto do Semaforo do consumidor, eu tive um papel mais de "business", onde 
 
 ### Em 2021-1 | [Nemo](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-1_NemoAPI) | Parceiro: [GSM](https://www.linkedin.com/company/gsw-software/?originalSubdomain=br)
 
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
 [Confira mais sobre o projeto](https://gitlab.com/felipemessibraga/pi-1sem-2021/-/wikis/9.1-Entrega-Sprint-4-(Final))
 
 #### Tecnologias Utilizadas
@@ -151,13 +179,19 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 - Colaboração
 - Gerenciamento do tempo
 
-### Em 2021-2 | [NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys) | Parceiro: [NESS](https://www.ness.com.br/)
+### Em 2021-2 | [NemoSys](https://github.com/felipemessi/portifolio-fatec/tree/main/2021-2_nemosys) | Parceiro: [NESS](https://www.ness.com.br/),
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
 
 #### Tecnologias Utilizadas
 
 - <strong>Python</strong>: Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. No projeto ele foi a linguagem base para lidar com os JOBs ETL (extract, transform and load).
 - <strong>Data Flow</strong>: O Google Cloud Dataflow é um serviço totalmente gerenciado para a execução de pipelines Apache Beam no ecossistema do Google Cloud Platform. Foi utilizado para fazer o processo de ETL.
-- <strong>Big Query</strong>: O BigQuery é um data warehouse totalmente gerenciado e sem servidor que permite análises escalonáveis em petabytes de dados. O Big Query foi o banco de dados do Data Warehouse
 - <strong>Big Query</strong>: O BigQuery é um data warehouse totalmente gerenciado e sem servidor que permite análises escalonáveis em petabytes de dados. O Big Query foi o banco de dados do Data Warehouse
 - MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. O mongo foi utilizado para a armazenamento de Logs do sistema.
 
