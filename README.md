@@ -64,9 +64,9 @@ Minha principal contribuição para este projeto foi encontrar e análisar a bas
 
 #### Hard Skills
 
-- Desenvolvimento Web com Django;
-- Scrum Master;
-- Webscraping com Selenium.
+- Desenvolvimento Web com Django: Models, Views,Templates e interatividade com formulários html.
+- Webscraping com Selenium: Realização de webscraping para captura dos dados do site do governo federal para abastecer o nosso webbot.
+- Scrum Developer: Noções da função do scrum developer dentro do Scrum Team.
 
 #### Soft Skills
 
@@ -105,9 +105,9 @@ Como Scrum Master, nesta sprint eu me desenvolvi muito mais em relação à comp
 
 #### Hard Skills
 
-- Django;
-- Scrum Master;
-- Modelagem de Banco de Dados.
+- Django: Models e templates;
+- Scrum Master: Apresentações, documentação da evolução do projeto além de buscar conhecimento externo para solucionar problemas técnicos do time.
+- Modelagem de Banco de Dados: Modelagem de banco de dados segundo as 3 formas normais.
 
 #### Soft Skills
 
@@ -145,9 +145,9 @@ No projeto do Semaforo do consumidor, eu tive um papel mais de "business", onde 
 
 #### Hard Skills
 
-- Templates HTML com Bootstrap
-- Scrum Master | Product owner
-- Docker
+- Templates HTML com Bootstrap: Correções de problemas de layout com o framework css Bootstrap, bem como adaptações em templates.
+- Scrum Master | Product owner: Avaliações e ciclos de feedback com o time, defesa dos ritos do Scrum e comunicação ativa com o cliente.
+- Docker: Dockerfile e volumes para banco de dados em container.
 
 #### Soft Skills
 
@@ -180,9 +180,9 @@ Este projeto foi a virada de chave, eu consegui encabeçar o recrutamento de um 
 
 #### Hard Skills
 
-- Scrum Master | Product owner
-- Docker
-- Postgres
+- Scrum Master | Product owner: Defesa dos ritos, interação ativa com o cliente e principalmente destravamento de impedimentos da equipe.
+- Docker: docker file, docker compose e configuração dos containers
+- Postgres: Modelagem segundo as 3 formas normais.
 - Java com Spring
 
 #### Soft Skills
@@ -217,10 +217,10 @@ Sem dúvida foi o projeto mais desafiador! Não tinhamos quase nenhum conhecimen
 
 #### Hard Skills
 
-- Big Query
-- Mongo DB
-- Data Flow
-- Data Studio
+- Big Query: Modelagem de banco não relacional (com estrutura de tabelas) e Data Warehouse;
+- Mongo DB: Criação de schemas para lidar com logs e conceitos de clusterização;
+- Data Flow: Processo de ETL e configuração de serviços em cloud para integração com o Big Query;
+- Data Studio: Desenvolvimento de dashboars e análise de BI.
 
 #### Soft Skills
 
@@ -259,13 +259,15 @@ Este projeto foi inteiramente desenvolvido por mim para a matéria de "Tópicos 
 
 #### Hard Skills
 
-- Desenvolvimento com Django Rest Framework
-- Documentação de API com Python
-- Utilização de Guias de Estilo.
+- Desenvolvimento com Django Rest Framework: Serialização e validação de dados, deploy e migrações;
+- Documentação de API com Python: Edição, configuração e integração da documentação com OpenAPI;
+- Utilização de Guias de Estilo: Ferramentas de padronização de guias de estilo, como as bibliotecas black, isort e pylint.
 
 #### Soft Skills
 
 - Senso investigativo: Investigar as possibilidades e possíveis soluções para atender a LGPD.
+- Organização: Trabalhar em um projeto sozinho exige um outro tipo de organização, uma vez que não existe um compromisso social. O comprometimento com a entrega deve ser maior nesse caso. A comunicação com o cliente também foi diferente uma vez que foi direta e não  através de um P.O.
+- Adaptabilidade: O projeto inicialmente estava sendo desenvolvido com outra linguagem de programação. Devido ao prazo e as características da necessidade da entrega foi necessário me adaptar, buscando mais conhecimentos para fazer uma entrega com mais valor no prazo esperado.
 
 ## Meus Principais Conhecimentos
 Os principais conhecimentos adquiridos nesse projeto foram a serialização de dados, fazendo todas as validações e normalização dos dados alem de adaptar uma aplicação às normas da LGPD.
