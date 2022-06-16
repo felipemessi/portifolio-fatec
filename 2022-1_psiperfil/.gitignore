@@ -1,0 +1,27 @@
+.venv
+.vscode
+**.sqlite3
+**/__pycache__
+__pycache__
+__pycache__/
+**/__pycache__
+**.pyc
+scripts/__pycache__
+*.pyc
+ # Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Env
+.env/
+local_settings.py

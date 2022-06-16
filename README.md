@@ -229,7 +229,7 @@ Sem dúvida foi o projeto mais desafiador! Não tinhamos quase nenhum conhecimen
 
 <span name="psiperfil"/>
 
-### Em 2022-1 | [PsiPerfil] 
+### Em 2022-1 | [PsiPerfil](https://psiperfil.herokuapp.com/api/v1/)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -239,15 +239,23 @@ Sem dúvida foi o projeto mais desafiador! Não tinhamos quase nenhum conhecimen
 
 O Psiperfil é um projeto que faz o gerenciamento de preenchimento de formulários psicológicos. O desafio principal foi adapta-lo às normas da LGPD, implementando um sistema de "Opt-in and Opt-out", onde o usuário pode fazer o gerenciamento dos dados que ele deseja permitir que sejam guardados pela aplicação.
 
+<div align="center">
+  <img src="https://github.com/felipemessi/psiperfil/blob/main/.github/LGPD.jpg">
+</div>
+
 #### Tecnologias Utilizadas
 
 - Django Rest Framework: Este framework ofereceu suporte completo de ORM, documentação e gerenciamento de rotas para a aplicação.
 - Postgres: O Postgres foi o banco utilizado para armazenar os dados da aplicação
-- Sqlite3: O Sqlite3 serviu como banco de desenvolvimento
+- Sqlite3: O Sqlite3 serviu como banco de 
+  
+<div align="center">
+  <img src="https://github.com/felipemessi/psiperfil/blob/main/.github/api_psiperfil.png">
+</div>
 
 #### Contribuições Pessoais
 
-Este projeto foi inteiramente desenvolvido por mim.
+Este projeto foi inteiramente desenvolvido por mim para a matéria de "Tópicos Avançados em Banco de Dados" com o professor Sakaue.
 
 #### Hard Skills
 
